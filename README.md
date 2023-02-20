@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm R.Deshan Maduranga</h1>
-<h3 align="center">I am Software Engineer</h3>
+<h3 align="center">A Passionate Full Stack Developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deshanrajamanthrie&label=Profile%20views&color=0e75b6&style=flat" alt="deshanrajamanthrie" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Computer Science and Softwere Enginnering**
+- 🌱 I’m currently learning **Computer Science and Software Engineering**
 
 - 💬 Ask me about **Java**
 
