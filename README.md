@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Computer Science and Software Engineering**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java/HTML/CSS/Hibernate**
 
 - 📫 How to reach me **deshanrajamanthrie2001 @gmail.com**
 
