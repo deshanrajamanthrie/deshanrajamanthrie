@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **deshanrajamanthrie2001 @gmail.com**
 
-- ⚡ Fun fact **I am a simple person.**
+- ⚡ Fun fact **I am a simple person & positive Thinker.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
