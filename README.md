@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Computer Science & Software Engineering**
-- 📫 I’m currently working **Java EE Servlet Project**
+- 📫 I’m currently working **Spring Web M.V.C Project and Self Study about it.**
 - 💬 Ask me about **Java/HTML/CSS/Hibernate/Spring/Servlet/SpringBoot and etc...**
 
 - 📫 How to reach me **deshanrajamanthrie2001 @gmail.com**
